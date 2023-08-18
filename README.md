@@ -5,7 +5,7 @@ Bem-vindo à Livraria BookHaven, o refúgio dos apaixonados por livros e cultura
 ## Aprendizados 🧠
 
 - Laços Condicionais e Estruturas de Controle
-- Laços de Condições
+- Arquitetura MVC
 - Classes, Atributos e Objetos
 - Entrada e Saída de Dados
 - Utilização de Coleções
