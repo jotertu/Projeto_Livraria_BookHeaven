@@ -34,11 +34,11 @@ Se você gostaria de contribuir para a melhoria deste projeto, fique à vontade 
 
 ## Autor
 
-Este projeto foi desenvolvido com ❤️ por [Seu Nome] e faz parte do desafio [Nome do Desafio/Projeto], realizado em [Data de Realização]. 
+Este projeto foi desenvolvido com ❤️ por João Vitor Nunes Tertuliano e faz parte do desafio Projeto integrador Generation realizado em 18/08/2023. 
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença]. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a liçenca do MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
