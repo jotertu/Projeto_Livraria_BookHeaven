@@ -2,6 +2,17 @@
 
 Bem-vindo à Livraria BookHaven, o refúgio dos apaixonados por livros e cultura! Este é um projeto de sistema de gerenciamento de estoque para uma livraria fictícia, onde você pode cadastrar, atualizar, listar e deletar produtos, desde livros até revistas e mangás. 📖✨
 
+##Aprendizados 🧠
+
+Laços Condicionais e Estruturas de Controle
+Laços de condições
+Classes, atributos e objetos
+Entrada e Saída de Dados
+Utilização de Coleções
+Manipulação de Exceções
+Modularização e Orientação a Objetos
+Git e Controle de Versão
+
 ## Funcionalidades Principais
 
 - **Cadastro de Produtos**: Adicione novos produtos ao estoque, como livros, mangás, revistas e mais! 📝📚
