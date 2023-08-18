@@ -34,7 +34,7 @@ Se você gostaria de contribuir para a melhoria deste projeto, fique à vontade 
 
 ## Autor
 
-Este projeto foi desenvolvido com ❤️ por João Vitor Nunes Tertuliano e faz parte do desafio Projeto integrador Generation realizado em 18/08/2023. 
+Este projeto foi desenvolvido com ❤️ por João Vitor Nunes Tertuliano e faz parte do desafio Projeto integrador Java Generation realizado em 18/08/2023. 
 
 ## Licença
 
